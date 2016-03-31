@@ -9,5 +9,5 @@
 
 ![alt-tag](https://farm2.staticflickr.com/1587/26151926265_2108719c91.jpg)
 
-![alt-tag](https://farm2.staticflickr.com/1565/25879042020_3b8c272cd1.jpg)
+![alt-tag](https://farm2.staticflickr.com/1565/25879042020_03acf3c968_o.png)
 
