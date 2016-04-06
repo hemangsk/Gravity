@@ -567,7 +567,7 @@ pre {
 }
 .post-title {
   font-size: 62px;
-  line-height: 3;
+
   text-align: center;
   font-family: "PT Sans";
   font-weight: 900;
@@ -577,6 +577,7 @@ pre {
 }
 .post-content {
   margin-bottom: $spacing-unit;
+  padding-bottom: 3em !important;
   p {
     font-size: 1.5rem;
   }
