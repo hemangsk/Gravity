@@ -20,7 +20,7 @@ tagline: "Loved it? Download Gravity"
 </center>
 </div>
 <center>GitHub Repository
-<a href=""http://github.com/heamngsk/Gravity"><p><i class="fa -fa-github"></i></p></a>
+<a href="http://github.com/hemangsk/Gravity"><p><i class="fa fa-github"></i></p></a>
 </center>
 <div class="intro"><br>
   <p>
