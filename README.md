@@ -1,10 +1,10 @@
 # Gravity
 ![alt tag](https://farm2.staticflickr.com/1593/25549169123_cfb392bfe9.jpg)
 
+![alt-tag](https://farm8.staticflickr.com/7295/26900743846_10e9a0ba71_o.png)
+![alt-tag](https://farm8.staticflickr.com/7578/26661133600_411d12f6e8_o.png)
 ![alt-tag](https://farm2.staticflickr.com/1592/26151881165_3f351e5fd1.jpg)
 
-![alt-tag](https://farm8.staticflickr.com/7295/26900743846_10e9a0ba71_o.pngg)
-![alt-tag](https://farm8.staticflickr.com/7578/26661133600_411d12f6e8_o.png)
 
 
 ![alt-tag](https://farm2.staticflickr.com/1674/25549273413_3872aa3b1e_o.png)
