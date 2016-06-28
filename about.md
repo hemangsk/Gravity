@@ -20,23 +20,21 @@ permalink: /about/
       - Write the <a href="jekyll">Front Matter</a> and content in the file.<br>
       <div class="example">
         <span class='manual'>FORMAT</span><BR>
-        <code>---<br>
-        layout: post | default | page<br>
-        title:  String<span class="hint"> Post Title</span><br>
-        date:   Time Stamp<br>
-        categories: String | Array of Strings<span class="hint"> Category / Categories </span><br>
-        ---
-      </code><br>
+        <pre>---
+layout: post | default | page
+title:  String<span class="hint"> Post Title</span>
+date:   Time Stamp
+categories: String | Array of Strings<span class="hint"> Category / Categories </span>
+---</pre>
       </div>
       <div class="example">
 
-        <code>---<br>
-        layout: post<br>
-        title:  "The One with the Blackout"<br>
-        date:   2016-03-30 19:45:31 +0530<br>
-        categories: ["life", "friends"]<br>
-        ---
-      </code>
+        <pre>---
+layout: post
+title:  "The One with the Blackout"
+date:   2016-03-30 19:45:31 +0530
+categories: ["life", "friends"]
+---</pre>
       </div>
 
 
@@ -55,24 +53,21 @@ permalink: /about/
       - Write the <a href="jekyll">Front Matter</a> and content in the file.
       <div class="example">
         <span class='manual'>FORMAT</span><BR>
-        <code>---<br>
-
-          layout: page<br>
-          title: String <span class="hint">Title of the webpage</span><br>
-          permalink: / String / <span class="hint">Permalink for the webpage</span><br>
-          tagline: String <span class="hint">Optional Gravity Feature : Tagline for the page</span><br>
-          ---
-      </code><br>
+        <pre>---
+layout: page
+title: String <span class="hint">Title of the webpage</span>
+permalink: / String / <span class="hint">Permalink for the webpage</span>
+tagline: String <span class="hint">Optional Gravity Feature : Tagline for the page</span>
+---</pre>
       </div>
       <div class="example">
 
-        <code>---<br>
-        layout: page<br>
-        title:  "Science"<br>
-        permalink:   /science/ <br>
-        tagline : "Humanity is overrated." <br>
-        ---
-      </code>
+        <pre>---
+layout: page
+title:  "Science"
+permalink:   /science/
+tagline : "Humanity is overrated."
+---</pre>
       </div>
 
 
@@ -99,26 +94,23 @@ permalink: /about/
       - Write the <a href="jekyll">Front Matter</a> and content in the file.
       <div class="example">
         <span class='manual'>FORMAT</span><BR>
-        <code>---<br>
-
-          layout: archive<span class="hint"> Archive Page Layout</span> <br>
-          title: String <span class="hint">Title of the webpage</span><br>
-          permalink: / String / <span class="hint">Permalink for the webpage</span><br>
-          tagline: String <span class="hint"> Tagline for the page</span><br>
-          category : String <span class="hint"> Name of the category of which the page will show posts.</span><br>
-          ---
-      </code><br>
+    <pre>---
+layout: archive<span class="hint"> Archive Page Layout</span>
+title: String <span class="hint">Title of the webpage</span>
+permalink: / String / <span class="hint">Permalink for the webpage</span>
+tagline: String <span class="hint"> Tagline for the page</span>
+category : String <span class="hint"> Name of the category of which the page will show posts.</span>
+---</pre>
       </div>
       <div class="example">
 
-        <code>---<br>
-        layout: archive<br>
-        title:  "Design"<br>
-        permalink : "Design"<br>
-        category: "design"<br>
-        tagline: "It's all about perception."<br>
-        ---
-      </code>
+        <pre>---
+layout: archive
+title:  "Design"
+permalink : "Design"
+category: "design"
+tagline: "It's all about perception."
+---</pre>
     </div><br>
   </div>
 </p>
