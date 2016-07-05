@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gravity
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+title: INLS 161 Project
+email: jkleis95@live.unc.edu
+description: Jack Kleissler's INLS 161 Page
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+twitter_username: jpkleissler
+github_username:  jkleissler
 
 # Build settings
 markdown: kramdown
