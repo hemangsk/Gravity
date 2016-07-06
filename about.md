@@ -15,4 +15,4 @@ permalink: /about/
   </div>
 <p>  <div class="manual-content">
 
-      I am a rising Junior at UNC Chapel Hill studying Information Science with a minor in Philosophy, Political Science, and Economics and Computer Science. My current employer is He's Not Here located at 112 1/2 W. Franklin Steet
+I am a rising Junior at UNC Chapel Hill studying Information Science with a minor in Philosophy, Political Science, and Economics and Computer Science. My current employer is He's Not Here located at 112 1/2 W. Franklin Steet
