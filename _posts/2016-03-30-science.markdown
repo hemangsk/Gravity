@@ -8,4 +8,4 @@ categories: science
 
 Science image of the day
 
-![science picture] (http://oi64.tinypic.com/dwua9v.jpg)
+![science-picture] (http://oi64.tinypic.com/dwua9v.jpg)
