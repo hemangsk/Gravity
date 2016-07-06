@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
-permalink: /design/
-category: "design"
-tagline: "it's all about perception."
+title: Sports
+permalink: /sports/
+category: "sports"
+tagline: "The most current topics and hottest takes on the world of sports"
 ---
