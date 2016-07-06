@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
+title: Science & Helath
 permalink: /science/
-tagline: "Humanity is overrated."
+tagline: "The cutting edge of the science world as well as current topics on health."
 category: "science"
 ---
