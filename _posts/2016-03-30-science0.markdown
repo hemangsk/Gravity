@@ -2,8 +2,8 @@
 layout: post
 title:  "Personal Blog"
 date:   2016-07-5 19:45:31 +0530
-categories: 
+categories: science
 ---
 "Personal blog"
 
-This is a space will be used as a personal blog. 
+This is a space will be used as a personal blog or topics that interest me. This one is about science. This past week Brazilian scientists discovered a bacteria in the water, that will be used for such Olympic events such as Sailing, which is drug resistant. Although this is a distrubing a troubling finding it does not seem that it is causing any sailing athetes to forgo the Olympics. Unlike Professional golfers who are dropping out like flies citing their concern for the zika virus. While I do not question this decision if valid it is interesting to note that many other athletes are commiting to attend the games while these golfers will continue to earn money on the PGA Tour in place of their time at the games. It is an interesting disparity to note, espcially when Golf has not been in the Olympics for nearly 100 years, a weak showing could prevent from another apperance in the summer 4 years from now.
