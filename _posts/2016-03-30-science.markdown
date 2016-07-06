@@ -6,4 +6,4 @@ categories: science
 ---
 "The Olympics"
 
-Checkout this story from FiveThirtyEight on the Olympics which start next month
+Checkout this story from FiveThirtyEight on the Olympics which start next month.
