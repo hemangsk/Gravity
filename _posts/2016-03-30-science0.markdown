@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Long Longer and more Longer titles look cool too!!"
+title:  "Personal Blog"
 date:   2016-07-5 19:45:31 +0530
 categories: 
 ---
