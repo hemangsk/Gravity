@@ -6,24 +6,14 @@ categories: jekyll update
 ---
 Gravity is an unopinionated theme for Jekyll, the awesome static site generator.
 
-Some General Instructions for Jekyll
+---
+layout: post
+title:  "Welcome to my personal website!"
+date:   2016-07-5 19:45:31 +0530
+categories: first post
+---
+This website contains information pertaining to the author, me, Jack Kleissler. In addition you will find posts on current issues involving sports, politics, as well as health and sciences.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Such as the following: Check out the [FiveThirtyEight] for an interesting read regarding immigration following the U.K. exit from the EU.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[FiveThirtyEight]: http://fivethirtyeight.com/features/the-uk-cant-block-immigration-if-it-wants-to-keep-its-finance-industry/
