@@ -6,6 +6,6 @@ categories: science
 ---
 "The Olympics"
 
-Checkout this story from FiveThirtyEight on the Olympics which start next month.
+Checkout this story from [FiveThirtyEight] on the Olympics which start next month.
 
-[FiveThirthyEight]: (http://fivethirtyeight.com/features/the-olympics-are-still-struggling-to-define-gender/)
+[FiveThirthyEight]: http://fivethirtyeight.com/features/the-olympics-are-still-struggling-to-define-gender/
