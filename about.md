@@ -16,10 +16,10 @@ permalink: /about/
 <p>  <div class="manual-content">
 
       - Rising Junior at UNC Chapel Hill
-  - Studying BS Information Science
-      Minor Philosphy, Political Science, Economics 
-    Minor Computer Science 
-      - Current Employment: He's Not Here
+- Studying BS Information Science
+- Minor Philosphy, Political Science, Economics 
+- Minor Computer Science 
+- - Current Employment: He's Not Here
       </div>
 
 
