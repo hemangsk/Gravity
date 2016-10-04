@@ -16,7 +16,7 @@ ___
 - `2016-03-30-i-love-design.markdown`
 - Write the _Front Matter_ and content in the file.
 
-# FORMAT
+## FORMAT
 ```
 ---
 layout: post | default | page
