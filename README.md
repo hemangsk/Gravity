@@ -8,8 +8,7 @@ If there's any issue you are facing in setting up this theme I'm there for you. 
 ![alt-tag](https://farm8.staticflickr.com/7295/26900743846_10e9a0ba71_o.png)
 ![alt-tag](https://farm8.staticflickr.com/7675/26840339222_b078607576_o.png)
 ![alt-tag](https://farm2.staticflickr.com/1592/26151881165_3f351e5fd1.jpg)
-
-
+___
 
 # POSTING
 - Create a .markdown file inside `_posts` folder.
@@ -33,15 +32,16 @@ date: 2016-03-30 19:45:31 +0530
 categories: ["life", friends]
 ---
 ```
+___
 
 # CREATE PAGES
 - Create a .md file in the root directory.
 - Name the file with the desired page link name.
-- `about.md`
-- `design.md`
+`about.md`
+`design.md`
 - Write the _Front Matter_ and content in the file.
 
-#FORMAT
+##FORMAT
 ```
 ---
 layout: page
@@ -57,5 +57,32 @@ permalink: /science/
 tagline: "Humanity is overrated."
 ---
 ```
+___
+# INTRODUCING ARCHIVE PAGES
+#### You can display a list of all the posts corresponding to a particular category on a standalone page using the `ARCHIVE` layout.
 
-![alt-tag](https://farm2.staticflickr.com/1565/25879042020_03acf3c968_o.png)
+- Create a .md file in the root directory.
+- Name the file. Preferred name will be the name of the category.
+	*`life.md`
+- Write the _Front Matter_ and content in the file.
+
+##FORMAT
+```
+---
+layout: archive ARCHIVE PAGE LAYOUT
+title: String TITLE OF THE WEBPAGE
+permalink: / String / PERMALINK FOR THE WEBPAGE
+tagline: String TAGLINE FOR THE PAGE
+category: String NAME OF THE CATEGORY OF WHICH THE PAGE WILL SHOW POSTS
+---
+
+---
+layout: archive
+title: "Design"
+permalink: "Design"
+tagline: "It's all about perception"
+category: "design"
+---
+```
+
+
