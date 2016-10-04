@@ -34,7 +34,29 @@ categories: ["life", friends]
 ---
 ```
 
-![alt-tag](https://farm2.staticflickr.com/1590/26563924866_ec40fd1ccd_o.png)
+# CREATE PAGES
+- Create a .md file in the root directory.
+- Name the file with the desired page link name.
+`about.md`
+`design.md`
+- Write the _Front Matter_ and content in the file.
+
+##FORMAT
+```
+---
+layout: page
+title: String TITLE OF THE WEBPAGE
+permalink: / String / PERMALINK FOR THE WEBPAGE
+tagline: String OPTIONAL GRAVITY FEATURE : TAGLINE FOR THE PAGE
+---
+
+---
+layout: page
+title: "Science"
+permalink: /science/
+tagline: "Humanity is overrated."
+---
+```
 
 ![alt-tag](https://farm2.staticflickr.com/1565/25879042020_03acf3c968_o.png)
 
