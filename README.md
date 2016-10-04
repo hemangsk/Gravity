@@ -8,6 +8,8 @@ If there's any issue you are facing in setting up this theme I'm there for you. 
 ![alt-tag](https://farm8.staticflickr.com/7295/26900743846_10e9a0ba71_o.png)
 ![alt-tag](https://farm8.staticflickr.com/7675/26840339222_b078607576_o.png)
 ![alt-tag](https://farm2.staticflickr.com/1592/26151881165_3f351e5fd1.jpg)
+
+
 ___
 
 # POSTING
