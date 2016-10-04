@@ -14,7 +14,7 @@ If there's any issue you are facing in setting up this theme I'm there for you. 
 # POSTING
 - Create a .markdown file inside `_posts` folder.
 - Name the file according to the format YY-MM-DD-[short name for your post].
-- `2016-03-30-i-love-design.markdown`
+  * `2016-03-30-i-love-design.markdown`
 - Write the _Front Matter_ and content in the file.
 
 ## FORMAT
@@ -37,8 +37,8 @@ categories: ["life", friends]
 # CREATE PAGES
 - Create a .md file in the root directory.
 - Name the file with the desired page link name.
-`about.md`
-`design.md`
+  *`about.md`
+  *`design.md`
 - Write the _Front Matter_ and content in the file.
 
 ##FORMAT
