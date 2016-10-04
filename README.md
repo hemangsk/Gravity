@@ -19,3 +19,39 @@ If there's any issue you are facing in setting up this theme I'm there for you. 
 
 ![alt-tag](https://farm2.staticflickr.com/1565/25879042020_03acf3c968_o.png)
 
+### Directory structure
+```
+├── css
+│   └── style.scss
+├── _includes
+│   ├── footer.html
+│   ├── header.html
+│   ├── head.html
+│   ├── icon-github.html
+│   ├── icon-github.svg
+│   ├── icon-twitter.html
+│   └── icon-twitter.svg
+├── _layouts
+│   ├── archive.html
+│   ├── default.html
+│   ├── page.html
+│   └── post.html
+├── _posts
+│   ├── 2016-03-30-design-stories.markdown
+│   ├── 2016-03-30-science0.markdown
+│   ├── 2016-03-30-science.markdown
+│   └── 2016-03-30-welcome-to-jekyll.markdown
+└── _sass
+|   ├── _base.scss
+|   ├── _layout.scss
+|   └── _syntax-highlighting.scss
+├── about.md
+├── _config.yml
+├── design.md
+├── download.md
+├── feed.xml
+├── index.html
+├── LICENSE.txt
+├── README.md
+└── science.md
+```
