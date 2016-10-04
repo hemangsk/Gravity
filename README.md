@@ -17,7 +17,7 @@ If there's any issue you are facing in setting up this theme I'm there for you. 
 - `2016-03-30-i-love-design.markdown`
 - Write the _Front Matter_ and content in the file.
 
-# FORMAT
+## FORMAT
 ```
 ---
 layout: post | default | page
