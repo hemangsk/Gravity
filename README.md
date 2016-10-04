@@ -11,9 +11,28 @@ If there's any issue you are facing in setting up this theme I'm there for you. 
 
 
 
-![alt-tag](https://farm2.staticflickr.com/1674/25549273413_3872aa3b1e_o.png)
+# POSTING
+- Create a .markdown file inside `_posts` folder.
+- Name the file according to the format YY-MM-DD-[short name for your post].
+- `2016-03-30-i-love-design.markdown`
+- Write the _Front Matter_ and content in the file.
 
+# FORMAT
+```
+---
+layout: post | default | page
+title: String POST TITLE
+date: Time Stamp
+categories: String | Array of Strings CATEGORY / CATEGORIES
+---
 
+---
+layout: post
+title: "The One with the Blackout"
+date: 2016-03-30 19:45:31 +0530
+categories: ["life", friends]
+---
+```
 
 ![alt-tag](https://farm2.staticflickr.com/1590/26563924866_ec40fd1ccd_o.png)
 
