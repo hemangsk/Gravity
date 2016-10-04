@@ -11,11 +11,51 @@ If there's any issue you are facing in setting up this theme I'm there for you. 
 
 
 
-![alt-tag](https://farm2.staticflickr.com/1674/25549273413_3872aa3b1e_o.png)
+# POSTING
+- Create a .markdown file inside `_posts` folder.
+- Name the file according to the format YY-MM-DD-[short name for your post].
+- `2016-03-30-i-love-design.markdown`
+- Write the _Front Matter_ and content in the file.
 
+# FORMAT
+```
+---
+layout: post | default | page
+title: String POST TITLE
+date: Time Stamp
+categories: String | Array of Strings CATEGORY / CATEGORIES
+---
 
+---
+layout: post
+title: "The One with the Blackout"
+date: 2016-03-30 19:45:31 +0530
+categories: ["life", friends]
+---
+```
 
-![alt-tag](https://farm2.staticflickr.com/1590/26563924866_ec40fd1ccd_o.png)
+# CREATE PAGES
+- Create a .md file in the root directory.
+- Name the file with the desired page link name.
+- `about.md`
+- `design.md`
+- Write the _Front Matter_ and content in the file.
+
+#FORMAT
+```
+---
+layout: page
+title: String TITLE OF THE WEBPAGE
+permalink: / String / PERMALINK FOR THE WEBPAGE
+tagline: String OPTIONAL GRAVITY FEATURE : TAGLINE FOR THE PAGE
+---
+
+---
+layout: page
+title: "Science"
+permalink: /science/
+tagline: "Humanity is overrated."
+---
+```
 
 ![alt-tag](https://farm2.staticflickr.com/1565/25879042020_03acf3c968_o.png)
-
