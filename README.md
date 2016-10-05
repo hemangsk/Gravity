@@ -88,9 +88,9 @@ category: "design"
 
 ### Directory structure
 ```
-├── css
+├── css 									    # => Output of the combined SASS files
 │   └── style.scss
-├── _includes
+├── _includes									# => Contains partials that can be used with your layouts
 │   ├── footer.html
 │   ├── header.html
 │   ├── head.html
@@ -98,27 +98,27 @@ category: "design"
 │   ├── icon-github.svg
 │   ├── icon-twitter.html
 │   └── icon-twitter.svg
-├── _layouts
+├── _layouts									# => Layout related HTML files
 │   ├── archive.html
 │   ├── default.html
 │   ├── page.html
 │   └── post.html
-├── _posts
+├── _posts										# => posts, dynamic content. Follow the format: YEAR-MONTH-DAY-title.MARKUP	
 │   ├── 2016-03-30-design-stories.markdown
 │   ├── 2016-03-30-science0.markdown
 │   ├── 2016-03-30-science.markdown
 │   └── 2016-03-30-welcome-to-jekyll.markdown
-└── _sass
+└── _sass										# => SASS partials for styling
 |   ├── _base.scss
 |   ├── _layout.scss
 |   └── _syntax-highlighting.scss
 ├── about.md
-├── _config.yml
+├── _config.yml 								# => Configuration options or flags for your site go here
 ├── design.md
 ├── download.md
 ├── feed.xml
 ├── index.html
-├── LICENSE.txt
+├── LICENSE.txt									# => Licensing information
 ├── README.md
 └── science.md
 ```
