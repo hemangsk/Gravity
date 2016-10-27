@@ -10,7 +10,9 @@ If there's any issue you are facing in setting up this theme I'm there for you. 
 ![alt-tag](http://i.imgur.com/HyyXWQ0.png)
 <img src="http://i.imgur.com/cPwoX3E.png"/>
 <img src="http://i.imgur.com/3TMoBGj.png"/>
-<img src="http://i.imgur.com/Z6h3uCp.png"/>___
+<img src="http://i.imgur.com/Z6h3uCp.png"/>
+<img src="http://i.imgur.com/bB7IIHr.png"/>
+___
 
 # POSTING
 - Create a .markdown file inside `_posts` folder.
