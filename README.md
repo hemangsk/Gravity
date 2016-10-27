@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://farm2.staticflickr.com/1593/25549169123_cfb392bfe9.jpg"/>
+<img src="http://i.imgur.com/JhbQ03z.png"/>
 </p>
 ---
 
@@ -18,7 +18,7 @@ ___
 - `2016-03-30-i-love-design.markdown`
 - Write the _Front Matter_ and content in the file.
 
-## FORMAT
+### FORMAT
 ```
 ---
 layout: post | default | page
@@ -43,7 +43,7 @@ ___
 `design.md`
 - Write the _Front Matter_ and content in the file.
 
-##FORMAT
+###FORMAT
 ```
 ---
 layout: page
@@ -60,7 +60,8 @@ tagline: "Humanity is overrated."
 ---
 ```
 ___
-# INTRODUCING ARCHIVE PAGES
+####Introducing
+# ARCHIVE PAGES
 #### You can display a list of all the posts corresponding to a particular category on a standalone page using the `ARCHIVE` layout.
 
 - Create a .md file in the root directory.
@@ -68,7 +69,7 @@ ___
 	*`life.md`
 - Write the _Front Matter_ and content in the file.
 
-##FORMAT
+###FORMAT
 ```
 ---
 layout: archive ARCHIVE PAGE LAYOUT
@@ -88,7 +89,7 @@ category: "design"
 ```
 
 
-### Directory structure
+#### DIRECTORY STRUCTURE
 ```
 ├── css 									    # => Output of the combined SASS files
 │   └── style.scss
