@@ -7,10 +7,10 @@
 If there's any issue you are facing in setting up this theme I'm there for you. Just create an issue in this repository (http://github.com/hemangsk/Gravity), (https://help.github.com/articles/creating-an-issue/) and I'll get back to you asap.
 
 
-![alt-tag](https://farm8.staticflickr.com/7295/26900743846_10e9a0ba71_o.png)
-![alt-tag](https://farm8.staticflickr.com/7675/26840339222_b078607576_o.png)
-![alt-tag](https://farm2.staticflickr.com/1592/26151881165_3f351e5fd1.jpg)
-___
+![alt-tag](http://i.imgur.com/HyyXWQ0.png)
+<img src="http://i.imgur.com/cPwoX3E.png"/>
+<img src="http://i.imgur.com/3TMoBGj.png"/>
+<img src="http://i.imgur.com/Z6h3uCp.png"/>___
 
 # POSTING
 - Create a .markdown file inside `_posts` folder.
