@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Science of Gravity"
-date:   2016-03-30 19:45:31 +0530
+title:  "Science Story of the day"
+date:   2016-07-5 19:45:31 +0530
 categories: science
-author: "Chandler Bing"
 ---
-"Could I be anymore pulling ?"
+"Australian Southern Aurora"
 
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Science image of the day
 
- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<<<<<<< HEAD
+![science picture](http://oi64.tinypic.com/dwua9v.jpg)
+=======
+![science-picture] (http://oi64.tinypic.com/dwua9v.jpg)
+>>>>>>> master
