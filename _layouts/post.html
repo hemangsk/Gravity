@@ -20,5 +20,18 @@ layout: default
     {{ content }}
   </div>
 
+  <footer class="postNavigation">
+  {% if page.previous.url %}
+    <a class="postPrev" href="{{page.previous.url}}">
+        &laquo; {{page.previous.title}}
+    </a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="postNext" href="{{page.next.url}}">
+        {{page.next.title}} &raquo;
+    </a>
+  {% endif %}
+  </footer>
+
 
 </article>

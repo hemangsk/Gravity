@@ -605,6 +605,54 @@ pre {
 }
 
 /**
+ * Pagination
+ */
+ .pagination {
+     padding-top: 3.5em;
+     text-align: center;
+ }
+ .paginationLink {
+     border: 0;
+     display: inline-block;
+     padding: 5px;
+     text-decoration: none;
+     transition: color 200ms ease-out;
+
+     &:hover,
+     &:active,
+     &:focus {
+         border: 0;
+     }
+ }
+ .paginationLinkCurrent {
+     font-style: normal;
+ }
+
+.postNavigation {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 3em;
+
+    a:only-child {
+        width: 100%;
+    }
+}
+.postPrev,
+.postNext {
+    display: inline-block;
+    width: 49%;
+    &:hover,
+    &:active,
+    &:focus {
+        border: 0;
+    }
+}
+.postNext {
+    text-align: right;
+}
+
+/**
  * Syntax highlighting styles
  */
 .highlight {
