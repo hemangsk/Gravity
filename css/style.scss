@@ -628,6 +628,30 @@ pre {
      font-style: normal;
  }
 
+.postNavigation {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 3em;
+
+    a:only-child {
+        width: 100%;
+    }
+}
+.postPrev,
+.postNext {
+    display: inline-block;
+    width: 49%;
+    &:hover,
+    &:active,
+    &:focus {
+        border: 0;
+    }
+}
+.postNext {
+    text-align: right;
+}
+
 /**
  * Syntax highlighting styles
  */
