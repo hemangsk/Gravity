@@ -14,7 +14,48 @@ If there's any issue you are facing in setting up this theme I'm there for you. 
 <img src="http://i.imgur.com/bB7IIHr.png"/>
 ___
 
-# POSTING
+# INSTALLATION
+
+### Dependencies
+
+Gravity uses Jekyll and it's built-in SCSS compiler for the associated CSS, so the first thing you'll need is Jekyll itself:
+
+```bash
+$ gem install jekyll
+```
+
+In case you don't have the `bundler` gem installed already, you can install it as follows:
+
+```bash
+$ gem install bundler
+```
+
+For pagination, Gravity uses the [jekyll-paginate](https://jekyllrb.com/docs/pagination/) gem :
+
+```bash
+$ gem install jekyll-paginate
+```
+___
+
+# Usage
+
+Once you have the required gems, you can go ahead and clone the 
+[Gravity repository](https://github.com/hemangsk/Gravity) or [download](https://github.com/hemangsk/Gravity/archive/master.zip)
+a zip of the master branch.
+
+Run :
+
+```bash
+$ jekyll serve
+```
+Jekyll should now be generating your content! 
+___
+
+# Adding posts
+
+The theme by default ships with starter posts located in `_posts/`. Delete these posts and add your content to the `_posts` 
+folder to see them being served up by Jekyll. [This](https://jekyllrb.com/docs/posts/) would be a good guide to getting started on writing posts using Jekyll. We've added a concise guide below:
+
 - Create a .markdown file inside `_posts` folder.
 - Name the file according to the format YY-MM-DD-[short name for your post].
 - `2016-03-30-i-love-design.markdown`
