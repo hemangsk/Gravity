@@ -180,3 +180,4 @@ category: "design"
 ├── README.md
 └── science.md
 ```
+          &copy; 2017
