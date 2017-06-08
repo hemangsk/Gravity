@@ -1,6 +1,7 @@
 <p align = "center">
 <img src="http://i.imgur.com/JhbQ03z.png"/>
 </p>
+
 ---
 
 If there's any issue you are facing in setting up this theme I'm there for you. Just create an issue in this repository (<http://github.com/hemangsk/Gravity>), (<https://help.github.com/articles/creating-an-issue/>) and I'll get back to you asap.
@@ -91,7 +92,7 @@ categories: ["life", friends]
   `design.md`
 - Write the *Front Matter* and content in the file.
 
-\###FORMAT
+### FORMAT
 
 ```
 ---
@@ -111,7 +112,7 @@ tagline: "Humanity is overrated."
 
 ***
 
-\####Introducing
+#### Introducing
 
 # ARCHIVE PAGES
 
@@ -122,7 +123,7 @@ tagline: "Humanity is overrated."
     \*`life.md`
 - Write the *Front Matter* and content in the file.
 
-\###FORMAT
+### FORMAT
 
 ```
 ---
