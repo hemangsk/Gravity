@@ -6,7 +6,7 @@
 
 If there's any issue you are facing in setting up this theme I'm there for you. Just create an issue in this repository (<http://github.com/hemangsk/Gravity>), (<https://help.github.com/articles/creating-an-issue/>) and I'll get back to you asap.
 
-![alt-tag](http://i.imgur.com/HyyXWQ0.png)
+![Welcome to Gravity](https://user-images.githubusercontent.com/13018570/27043040-778d80cc-4fb6-11e7-8619-de4be626be67.png)
 <img src="http://i.imgur.com/cPwoX3E.png"/>
 <img src="http://i.imgur.com/3TMoBGj.png"/>
 <img src="http://i.imgur.com/Z6h3uCp.png"/>
