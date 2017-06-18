@@ -180,3 +180,7 @@ category: "design"
 ├── README.md
 └── science.md
 ```
+
+### Update
+
+Dark mode coming soon!
