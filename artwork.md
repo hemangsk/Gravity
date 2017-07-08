@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: download
-permalink: /downloads/
-category: "download"
+title: artwork
+permalink: /art/
+category: ["artwork"]
 ---
 
 <div class="home">

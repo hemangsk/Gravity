@@ -1,0 +1,24 @@
+---
+layout: page
+---
+
+{% for post in site.posts %}
+{% for cat in post.categories %}
+{% if cat == page.category %}
+    {% capture day %}{{ post.date | date: '%m%d%Y' }}{% endcapture %}
+    {% capture nday %}{{ post.next.date | date: '%m%d%Y' }}{% endcapture %}
+
+    {% if day != nday %}
+  <br><p class="artwork-entry-date">[ {{ post.date | date: "%b %-d %Y" }} ]</p>
+    {% endif %}
+    <span class="artwork-entry"><span class="char">//</span> <span class="bracket">[  </span>
+  {% if post.author == "one" %}<span class="one">{{ post.author }}</span>{% endif %}
+  {% if post.author == "two" %}<span class="two">{{ post.author }}</span>{% endif %}
+  {% if post.author == "three" %}<span class="three">{{ post.author }}</span>{% endif %}
+  {% if post.author == "four" %}<span class="four">{{ post.author }}</span>{% endif %}
+  {% if post.author == "five" %}<span class="five">{{ post.author }}</span>{% endif %}
+    <span class="bracket">  ]</span> <span class="char">></span> </span><a 
+href="http://website.com{{ post.url }}"><span class="title">{{ post.title }}</span></a><br>
+{% endif %}
+{% endfor %}
+{% endfor %}

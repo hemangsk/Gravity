@@ -6,15 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gravity
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
-paginate: 5
+title: test
 
-gems: [jekyll-paginate, kramdown]
+description: "website.com"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://website.com" # the base hostname & protocol for your site
+
+permalink: /:title.html
+gems: [kramdown,jekyll-paginate]
+paginate: 15
+timezone: NZ
 # Build settings
 markdown: kramdown
+
