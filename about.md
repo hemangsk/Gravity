@@ -17,12 +17,13 @@ permalink: /about/
 <br>
 <p>My project are mostly computational, either involving simulation or data analysis <small>(Maybe I should call myself a theoretist?)</small> I used to be a python fan but right now I favor R slightly more. <s>Matlab is okay</s>.</p>
 <br>
+</div>
 
 <div class="manual manual-title">
   <strong>Interest</strong>
   </div>
-
-<p>I want to improve undergraduate physics teaching. Does there exist a way to pass on the great knowledge without intentionally perplex student and the use of dark magic <i>``it's trivial''</i>??</p>
+<p>  <div class="manual-content">
+<p>I want to improve undergraduate physics teaching. Does there exist a way to pass on the great knowledge without intentionally perplex student and the use of dark magic <i>"it's trivial"</i> ??</p>
 <br>
 <p>Academically, I am interested in statistical inference, network and complex systems.</p>
 
