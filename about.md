@@ -13,8 +13,5 @@ permalink: /about/
   </div>
 <p>  <div class="manual-content">
 
-This is just trying out for some features. 
 
-How good is this page tho,
-yoyo
 
