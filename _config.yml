@@ -13,7 +13,6 @@ description: The Liberal Jekyll Theme
 url: "https://yichen96.github.io" # the base hostname & protocol for your site
 #twitter_username: hemang_kumar
 github_username: yichen96
-instagram_username: yichen199651
 paginate: 5
 
 gems: [jekyll-paginate, kramdown]
