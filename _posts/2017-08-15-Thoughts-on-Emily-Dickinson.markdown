@@ -37,7 +37,6 @@ Life philosophy in general:
 <blockquote>
 Success is counted sweetest
 
-
 By those who ne'er succeed.
 
 To comprehend a nectar
