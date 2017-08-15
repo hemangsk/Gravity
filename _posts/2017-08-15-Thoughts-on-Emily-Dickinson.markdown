@@ -36,7 +36,7 @@ You must all have the same question in mind as PQ, "what's the point of learning
 Life philosophy in general:
 <blockquote>
 Success is counted sweetest
-  
+
 By those who ne'er succeed.
 
 To comprehend a nectar
