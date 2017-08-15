@@ -36,8 +36,11 @@ You must all have the same question in mind as PQ, "what's the point of learning
 Life philosophy in general:
 
 >Success is counted sweetest
+
 >By those who ne'er succeed.
+
 >To comprehend a nectar
+
 >Requires sorest need.
 >-- *First stanza of "Success is counted sweetest".*
 
