@@ -29,6 +29,15 @@ Oh boy, if you're thinking what I'm thinking...... But that is not all, yet. In 
 >
 >Projected him.
 
-In case that you were thinking of nothing while reading the first stanza, the verb "fathom" (~to measure) pretty much speaks for it all. If you're still not getting it, never mind, and carry on with your innocent life.
+In case that you were thinking of nothing while reading the first stanza, the verb "fathom" (~to measure) pretty much speaks for it all. If you're still not getting it, never mind, carry on with your innocent life.
 
-You must all have the same question in mind as PQ, "what's the point of learning a poem like this (filled with sexual innuendo)?". Well, it just happened to be in the *Selected Poems of Emily Dickinson*. Read it. And you will understand why Emily Dickinson stands out from all English speaking poets + french poets + chinese poets and win my heart as my favorite poet of all time. **She writes accross all kinds of themes**, and each and every of them is so insightful in content, intense in emotion, intelligent in wording. Let's see some examples.
+You must all have the same question in mind as PQ, "what's the point of learning a poem like this (filled with sexual innuendo)?". Well, it just happened to be in the *Selected Poems of Emily Dickinson*. Read it. And you will understand why Emily Dickinson stands out from all English speaking poets + french poets + chinese poets and win my heart as my favorite poet of all time. **She writes accross all kinds of themes, and each and every of them is so insightful in content, intense in emotion, intelligent in wording.** Let's see some examples.
+
+Life philosophy in general:
+<blockquote>
+Success is counted sweetest
+  
+By those who ne'er succeed. 
+To comprehend a nectar 
+Requires sorest need.
+</blockquote>
