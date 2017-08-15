@@ -44,15 +44,66 @@ Life philosophy in general:
 >Requires sorest need.
 >
 >-- *First stanza of "Success is counted sweetest".*
+
 I think there is a point in our life that we all realised that, yes, everything works on a relative scale - if there is no bitterness, we wouldn't qualify anything as sweet. Yet, every time I read these lines, I am amazed how it's so beautifully written down by Dickinson.
 
-And my favourite of all - *"We never know how high we are".
+On Fame:
+
+>I’m Nobody! Who are you?
+>
+>Are you – Nobody – too?
+>
+>Then there’s a pair of us!
+>
+>Don’t tell! they’d advertise – you know!
+>
+>
+>How dreary – to be – Somebody!
+>
+>How public – like a Frog –  
+>
+>To tell one’s name – the livelong June –  
+>
+>To an admiring Bog!
+
+On Love and Death:
+
+>I could not die with you,	
+>
+>For one must wait	
+>
+>To shut the other’s gaze down,—
+>
+>You could not.	
+>  
+>
+>And I, could I stand by	
+>
+>And see you freeze,	
+>
+>Without my right of frost,	
+>
+>Death’s privilege?
+>
+> -- excerpt from *"I cannot live with you."*
+
+And my favourite of all, a poem that would make you feel like reading a shonen manga - *"We never know how high we are".*
+
 >We never know how high we are  
->  Till we are called to rise;  
->And then, if we are true to plan,  
->  Our statures touch the skies—  
->   
+>
+>  Till we are called to rise;  
+>
+>And then, if we are true to plan,  
+>
+>  Our statures touch the skies—  
+>
+>   
 >The Heroism we recite
->  Would be a daily thing,  
->Did not ourselves the Cubits warp  
+>
+>  Would be a daily thing,  
+>
+>Did not ourselves the Cubits warp  
+>
 >  For fear to be a King—
+
+FYI "Cubit" is a small unit of length.
