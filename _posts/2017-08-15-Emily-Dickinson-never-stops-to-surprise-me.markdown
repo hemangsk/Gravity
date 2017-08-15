@@ -56,8 +56,7 @@ On Fame:
 >Then there’s a pair of us!
 >
 >Don’t tell! they’d advertise – you know!
-&nbsp; 
->
+>&nbsp; 
 >How dreary – to be – Somebody!
 >
 >How public – like a Frog –  
