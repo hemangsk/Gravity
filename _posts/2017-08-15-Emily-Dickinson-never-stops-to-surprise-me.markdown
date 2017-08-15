@@ -36,13 +36,9 @@ You must all have the same question in mind as PQ, "what's the point of learning
 Life philosophy in general:
 
 >Success is counted sweetest
->
 >By those who ne'er succeed.
->
 >To comprehend a nectar
->
 >Requires sorest need.
->
 >-- *First stanza of "Success is counted sweetest".*
 
 I think there is a point in our life that we all realised that, yes, everything works on a relative scale - if there is no bitterness, we wouldn't qualify anything as sweet. Yet, every time I read these lines, I am amazed how it's so beautifully written down by Dickinson.
@@ -50,19 +46,13 @@ I think there is a point in our life that we all realised that, yes, everything 
 On Fame:
 
 >I’m Nobody! Who are you?
->
 >Are you – Nobody – too?
->
 >Then there’s a pair of us!
->
 >Don’t tell! they’d advertise – you know!
-><br>
+>
 >How dreary – to be – Somebody!
->
 >How public – like a Frog –  
->
 >To tell one’s name – the livelong June –  
->
 >To an admiring Bog!
 
 On Love and Death:
