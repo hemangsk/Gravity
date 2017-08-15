@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Design Stories : Gravity"
-date:   2016-03-30 19:45:31 +0530
-categories: ["design", "science", "life"]
-author: "Hemang Kumar"
+title:  "Emily Dickinson never stops to surprise me"
+date:   2017-08-15 19:45:31 +0530
+categories: ["blah"]
+author: "Yichen Liu"
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
