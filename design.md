@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
-permalink: /design/
-category: "design"
-tagline: "it's all about perception."
+title: Blah
+permalink: /blah/
+category: "blah"
+tagline: "blah blah blah. Things that have nothing to do with science."
 ---
