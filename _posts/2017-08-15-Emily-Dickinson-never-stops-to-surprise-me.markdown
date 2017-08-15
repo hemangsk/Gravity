@@ -56,9 +56,7 @@ On Fame:
 >Then there’s a pair of us!
 >
 >Don’t tell! they’d advertise – you know!
->
->
->
+><br>
 >How dreary – to be – Somebody!
 >
 >How public – like a Frog –  
@@ -76,8 +74,7 @@ On Love and Death:
 >To shut the other’s gaze down,—
 >
 >You could not.	
->  
->
+><br>
 >And I, could I stand by	
 >
 >And see you freeze,	
@@ -97,8 +94,7 @@ And my favourite of all, a poem that would make you feel like reading a shonen m
 >And then, if we are true to plan,  
 >
 >  Our statures touch the skies—  
->
->   
+><br>
 >The Heroism we recite
 >
 >  Would be a daily thing,  
