@@ -56,10 +56,7 @@ On Fame:
 >Then there’s a pair of us!
 >
 >Don’t tell! they’d advertise – you know!
->
->
->
->
+&nbsp; 
 >
 >How dreary – to be – Somebody!
 >
