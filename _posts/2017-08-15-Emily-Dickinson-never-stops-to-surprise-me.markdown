@@ -128,16 +128,27 @@ One cannot argue that Emily was in her man persona when she wrote these *persona
 But let's assume that Emily was gay/bi for now, and revisit her poem *"Wild nights - Wild nights!"*.
 
 >Wild nights - Wild nights! 
+>
 >Were I with thee 
+>
 >Wild nights should be 
+>
 >Our luxury! 
->
+><br><br>
 >Futile - the winds - 
->To a Heart in port - 
->Done with the Compass - 
->Done with the Chart! 
 >
+>To a Heart in port - 
+>
+>Done with the Compass - 
+>
+>Done with the Chart! 
+><br><br>
 >Rowing in Eden - 
+>
 >Ah - the Sea! 
+>
 >Might I but moor - tonight - 
+>
 >In thee! 
+
+When I studied this poem back in high school, our analysis is that, despite being a recluse, her imagination transcend physical boundary. As many other renowned poets, she was able to put in a man's shoes and paint a wild, intense, festive, erotic scene of sheer joy. However, this poem could make so much more sense if she was writing to her female lover. 
