@@ -56,7 +56,7 @@ On Fame:
 >Then there’s a pair of us!
 >
 >Don’t tell! they’d advertise – you know!
->
+><br><br>
 >How dreary – to be – Somebody!
 >
 >How public – like a Frog –  
@@ -74,7 +74,7 @@ On Love and Death:
 >To shut the other’s gaze down,—
 >
 >You could not.	
->
+><br><br>
 >And I, could I stand by	
 >
 >And see you freeze,	
@@ -94,7 +94,7 @@ And my favourite of all, a poem that would make you feel like reading a shonen m
 >And then, if we are true to plan,  
 >
 >  Our statures touch the skies—  
->
+><br><br>
 >The Heroism we recite
 >
 >  Would be a daily thing,  
@@ -123,7 +123,9 @@ Passage 4
 
 If you read me Passage 1 and Passage 2 without telling me its from Emily Dickinson, I could have assumed that these are excerpt from some love notes in a Jane Austen novel. BTW my favourite love letter was the one Captain Wentworth wrote to Anne in Persuaion (*"\[...\] You pierce my soul. I am half agony, half hope. Tell me not that I am too late, that such precious feelings are gone for ever. I offer myself to you again with a heart even more your own than when you almost broke it \[...\]"*). But now... Hey Jane, make way for Emily!
 
-One cannot argue that Emily was in her man persona when she wrote these *personal* letters to her friend (or is this a role play between friends??). I would say the sweetness contained in these letters is far beyond my sweet lab partner's standard, i.e. I don't think this is an appropriate level of affection between BFF. So that leads us to speculate that Emily, lesbian or bisexual, was interested in women. However, of course, Emily lived in Victorian era, and people may have different standards as we do in modern times. I quote PQ, "people back in the days were more eloquent and beat around the bush".
+One cannot argue that Emily was in her man persona when she wrote these *personal* letters to her friend (or is this a role play between friends??). Moreover, Emily makes it sound like Susie is unattainable, it is consistent with the era that they lived in, given that Susie is of same gender and married.
+
+I would say the sweetness contained in these letters is far beyond my sweet lab partner's standard, i.e. I don't think this is an appropriate level of affection between BFF. So that leads us to speculate that Emily, lesbian or bisexual, was interested in women. However, of course, Emily lived in Victorian era, and people may have different standards as we do in modern times. I quote PQ, "people back in the days were more eloquent and beat around the bush".
 
 But let's assume that Emily was gay/bi for now, and revisit her poem *"Wild nights - Wild nights!"*.
 
@@ -151,4 +153,13 @@ But let's assume that Emily was gay/bi for now, and revisit her poem *"Wild nigh
 >
 >In thee! 
 
-When I studied this poem back in high school, our analysis is that, despite being a recluse, her imagination transcend physical boundary. As many other renowned poets, she was able to put in a man's shoes and paint a wild, intense, festive, erotic scene of sheer joy. However, this poem could make so much more sense if she was writing to her female lover. 
+When I studied this poem back in high school, our analysis is that, despite being a recluse, her imagination transcend physical boundary. As many other renowned poets, she was able to put in a man's shoes and paint a wild, intense, festive, erotic scene of sheer joy. 
+
+However, this poem could make so much more sense if she was writing to her female lover. The last stanza sticks with the metaphor of the poet being a ship, literally describes how being with *the* Love, is as being in the Heaven, that the poet finnaly found home and is about to anchor. 
+
+And then you read the last two lines again. **Tonight may I be in you?** Sounds like a very shitty pickup line. But we should all agree that this is a sexual innuendo and implies intercourse. The *I* is clearly demanding to play the dominant role. Well, I doubt that a victorian angel in the house would dare to abondon her submissive duties. But if this is a love affair between two women, then... right?
+
+Anyways, this is all speculations. I quote again PQ "why can't it be sisterly love?"
+
+**
+Anyways, this is all speculations. I quote again PQ "why can't it be sisterly love?"
