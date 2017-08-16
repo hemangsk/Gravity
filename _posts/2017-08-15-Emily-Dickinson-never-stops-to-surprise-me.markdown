@@ -5,7 +5,7 @@ date:   2017-08-15 19:45:31 +0530
 categories: ["blah"]
 author: "Yichen Liu"
 ---
-The topic was brought up in yet another weired <s><i>R-rated</i></s> converstation with the Procrastination Queen (PQ). I was telling the story of how embarrassing it was to study and discuss poems that have a sexual connotation. Our teacher once asked a classmate to explain, the poor girl was really embarrassed and said "....eh...and she wants to have sex with..." and then the teacher was like "oh so now you all say have sex? Why not use make love, isn't make love sounds more romantic". And to illustrate with an example, I chose a poem written by **Emily Dickinson**:
+The topic was brought up in yet another weired <s><i>R-rated</i></s> converstation with my friend - the Procrastination Queen (PQ). I was telling the story of how embarrassing it was to study and discuss poems that have a sexual connotation. Our teacher once asked a classmate to explain, the poor girl was really embarrassed and said "....eh...and she wants to have sex with..." and then the teacher was like "oh so now you all say have sex? Why not use make love, isn't make love sounds more romantic". And to illustrate with an example, I chose a poem written by **Emily Dickinson**:
 
 >In Winter in my Room
 >
@@ -105,4 +105,7 @@ And my favourite of all, a poem that would make you feel like reading a shonen m
 
 And of course, she wrote about much more things and topics, but since "Emily Dickinson 101" is not the focus of this article, let's jump to the conclusion: Emily Dickinson is one of the greatest american poet of all time. (Insert a useless backstory: Emily's father had little idea about his gifted daughter. He used to tell the guests that his son Austin writes like Shakespeare, unaware of the fact that the greatest american poet resided upstairs.)
 
-**But as I am too aware of her poetic talent, what could possibly surprise me again?** Well...I had little interest in her personal life, untill today when I was Googling these poems for PQ, I bumped into Emily's correspondence with her dear friend, slash, sister-in-law, Susan. 
+**But as I am too aware of her poetic talent, what could possibly surprise me again?** Well...I had little interest in her personal life, untill today when I was Googling these poems for PQ, I bumped into Emily's correspondence with her dear friend, slash, sister-in-law, Susan. And yes, theese letters make me question her sexuality, the later could shine new light on some poems. Without further ado, here's some quotes from her letter to her "friend" ;) .
+
+Passage 1
+>I have but one thought, Susie, this afternoon of June, and that of you, and I have one prayer, only; dear Susie, that is for you. That you and I in hand as we e’en do in heart, \[...\] Susie, and when I look around me and find myself alone, I sigh for you again; little sigh, and vain sigh, which will not bring you home.
