@@ -45,7 +45,7 @@ Life philosophy in general:
 >
 >-- *First stanza of "Success is counted sweetest".*
 
-I think there is a point in our life that we all realised that, yes, everything works on a relative scale - if there is no bitterness, we wouldn't qualify anything as sweet. Yet, every time I read these lines, I am amazed how it's so beautifully written down by Dickinson.
+I think there is a point in our life that we all realise that, yes, everything works on a relative scale - if there is no bitterness, we couldn't qualify anything as sweet. Yet, every time I read these lines, I am amazed how it's so beautifully written down by Dickinson.
 
 On Fame:
 
@@ -56,7 +56,7 @@ On Fame:
 >Then there’s a pair of us!
 >
 >Don’t tell! they’d advertise – you know!
->&nbsp; 
+>
 >How dreary – to be – Somebody!
 >
 >How public – like a Frog –  
@@ -74,7 +74,7 @@ On Love and Death:
 >To shut the other’s gaze down,—
 >
 >You could not.	
-><br>
+>
 >And I, could I stand by	
 >
 >And see you freeze,	
@@ -85,7 +85,7 @@ On Love and Death:
 >
 > -- excerpt from *"I cannot live with you."*
 
-And my favourite of all, a poem that would make you feel like reading a shonen manga - *"We never know how high we are".*
+And my favourite of all, a poem that would make you feel like reading a shonen manga - *"We never know how high we are".* FYI "Cubit" is a small unit of length.
 
 >We never know how high we are  
 >
@@ -94,7 +94,7 @@ And my favourite of all, a poem that would make you feel like reading a shonen m
 >And then, if we are true to plan,  
 >
 >  Our statures touch the skies—  
-><br>
+>
 >The Heroism we recite
 >
 >  Would be a daily thing,  
@@ -103,4 +103,6 @@ And my favourite of all, a poem that would make you feel like reading a shonen m
 >
 >  For fear to be a King—
 
-FYI "Cubit" is a small unit of length.
+And of course, she wrote about much more things and topics, but since "Emily Dickinson 101" is not the focus of this article, let's jump to the conclusion: Emily Dickinson is one of the greatest american poet of all time. (Insert a useless backstory: Emily's father had little idea about his gifted daughter. He used to tell the guests that his son Austin writes like Shakespeare, unaware of the fact that the greatest american poet resided upstairs.)
+
+**But as I am too aware of her poetic talent, what could possibly surprise me again?** Well...I had little interest in her personal life, untill today when I was Googling these poems for PQ, I bumped into Emily's correspondence with her dear friend, slash, sister-in-law, Susan. 
