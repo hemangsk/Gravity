@@ -5,7 +5,9 @@ date:   2017-08-15 19:45:31 +0530
 categories: ["blah"]
 author: "Yichen Liu"
 ---
-The topic was brought up in yet another weired <s><i>R-rated</i></s> converstation with my friend - the Procrastination Queen (PQ). I was telling the story of how embarrassing it was to study and discuss poems that have a sexual connotation. Our teacher once asked a classmate to explain, the poor girl was really embarrassed and said "....eh...and she wants to have sex with..." and then the teacher was like "oh so now you all say have sex? Why not use make love, doesn't make love sound more romantic?". And to illustrate with an example, I chose a poem written by **Emily Dickinson**:
+The topic was brought up in yet another weired <s><i>R-rated</i></s> converstation with my friend - the Procrastination Queen (PQ). 
+
+I was telling the story of how embarrassing it was to study and discuss poems that have a sexual connotation. Our teacher once asked a classmate to explain, the poor girl was really embarrassed and said "....eh...and she wants to have sex with..." and then the teacher was like "oh so now you all say have sex? Why not use make love, doesn't make love sound more romantic?". And to illustrate with an example, I chose a poem written by **Emily Dickinson**:
 
 >In Winter in my Room
 >
