@@ -157,9 +157,13 @@ When I studied this poem back in high school, our analysis is that, despite bein
 
 However, this poem could make so much more sense if she was writing to her female lover. The last stanza sticks with the metaphor of the poet being a ship, literally describes how being with *the* Love, is as being in the Heaven, that the poet finnaly found home and is about to anchor. 
 
-And then you read the last two lines again. **Tonight may I be in you?** Sounds like a very shitty pickup line. But we should all agree that this is a sexual innuendo and implies intercourse. The *I* is clearly demanding to play the dominant role. Well, I doubt that a victorian angel in the house would dare to abondon her submissive duties. But if this is a love affair between two women, then... right?
+And then you read the last two lines again. **Tonight may I be in you?** Sounds like a very shitty pickup line. But we should all agree that this is a sexual innuendo and implies intercourse. The *I* is clearly demanding to play the dominant role. Well, I doubt that a victorian angel in the house would dare to abondon her submissive duties. But if this is a love affair between two women, then... right? And there was even another poem about her wanting to rest in a woman's breast!
 
-Anyways, this is all speculations. I quote again PQ "why can't it be sisterly love?"
+Anyhow, this is all speculations. I quote again PQ "why can't it be sisterly love?"
 
-**
-Anyways, this is all speculations. I quote again PQ "why can't it be sisterly love?"
+**Reference**
+- [poets.org](https://www.poets.org/poetsorg/poem/we-never-know-how-high-we-are-1176)
+- [Emily Dickinson, Lesbian?: Her Letter to Susan Gilbert, in June of 1852, Might Tell Us Less Than You Think](https://santitafarella.wordpress.com/2008/07/15/emily-dickinson-lesbian-her-letter-to-susan-gilbert-in-june-of-1852-might-tell-us-less-than-you-think/)
+-
+- [Emily Dickinson, Lesbian?: Her Letter to Susan Gilbert, in June of 1852, Might Tell Us Less Than You Think](https://santitafarella.wordpress.com/2008/07/15/emily-dickinson-lesbian-her-letter-to-susan-gilbert-in-june-of-1852-might-tell-us-less-than-you-think/) 
+- [Emily Dickinson, Lesbian?: Her Letter to Susan Gilbert, in June of 1852, Might Tell Us Less Than You Think](https://santitafarella.wordpress.com/2008/07/15/emily-dickinson-lesbian-her-letter-to-susan-gilbert-in-june-of-1852-might-tell-us-less-than-you-think/)
