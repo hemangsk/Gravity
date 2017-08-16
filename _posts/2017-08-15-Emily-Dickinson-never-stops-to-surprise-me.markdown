@@ -105,7 +105,19 @@ And my favourite of all, a poem that would make you feel like reading a shonen m
 
 And of course, she wrote about much more things and topics, but since "Emily Dickinson 101" is not the focus of this article, let's jump to the conclusion: Emily Dickinson is one of the greatest american poet of all time. (Insert a useless backstory: Emily's father had little idea about his gifted daughter. He used to tell the guests that his son Austin writes like Shakespeare, unaware of the fact that the greatest american poet resided upstairs.)
 
-**But as I am too aware of her poetic talent, what could possibly surprise me again?** Well...I had little interest in her personal life, untill today when I was Googling these poems for PQ, I bumped into Emily's correspondence with her dear friend, slash, sister-in-law, Susan. And yes, theese letters make me question her sexuality, the later could shine new light on some poems. Without further ado, here's some quotes from her letter to her "friend" ;) .
+**But as I am too aware of her poetic talent, what could possibly surprise me again?** Well...I had little interest in her personal life, untill today when I was Googling these poems for PQ, I bumped into Emily's correspondence with her dear friend, slash, sister-in-law, Susan. And yes, theese letters make me question her sexuality, the later could shine new light on some poems. Without further ado, here's some quotes from her letter to her "friend" ;) . There exist a collection of their correspondence - [Open Me Carefully](https://www.amazon.com/Open-Carefully-Dickinsons-Huntington-Dickinson/dp/0963818368/ref=sr_1_1?ie=UTF8&qid=1502843585&sr=8-1&keywords=open+me+carefully).
 
 Passage 1
 >I have but one thought, Susie, this afternoon of June, and that of you, and I have one prayer, only; dear Susie, that is for you. That you and I in hand as we e’en do in heart, \[...\] Susie, and when I look around me and find myself alone, I sigh for you again; little sigh, and vain sigh, which will not bring you home.
+
+Passage 2
+>Susie, forgive me Darling, for every word I say — my heart is full of you, none other than you is in my thoughts, yet when I seek to say to you something not for the world, words fail me. If you were here — and Oh that you were, my Susie, we need not talk at all, our eyes would whisper for us, and your hand fast in mine, we would not ask for language\[...\]
+
+Passage 3
+>Now, farewell, Susie, and Vinnie sends her love, and mother her’s, and I add a kiss, shyly, lest there is somebody there! Don’t let them see, will you Susie?
+
+Passage 4 
+>Never mind the letter, Susie; you have so much to do; just write me every week one line, and let it be, ‘Emily, I love you,’ and I will be satisfied!
+
+If you read me Passage 1 and Passage 2 without telling me its from Emily Dickinson, I could have assumed that these are excerpt from some love notes in a Jane Austen novel. BTW my favourite love letter was the one Captain Wentworth wrote to Anne in Persuaion (*"\[...\] You pierce my soul. I am half agony, half hope. Tell me not that I am too late, that such precious feelings are gone for ever. I offer myself to you again with a heart even more your own than when you almost broke it \[...\]"*). But now... Hey Jane, move way for Emily!
+
