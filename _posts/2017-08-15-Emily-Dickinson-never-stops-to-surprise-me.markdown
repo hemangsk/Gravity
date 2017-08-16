@@ -164,6 +164,5 @@ Anyhow, this is all speculations. I quote again PQ "why can't it be sisterly lov
 **Reference**
 - [poets.org](https://www.poets.org/poetsorg/poem/we-never-know-how-high-we-are-1176)
 - [Emily Dickinson, Lesbian?: Her Letter to Susan Gilbert, in June of 1852, Might Tell Us Less Than You Think](https://santitafarella.wordpress.com/2008/07/15/emily-dickinson-lesbian-her-letter-to-susan-gilbert-in-june-of-1852-might-tell-us-less-than-you-think/)
--
-- [Emily Dickinson, Lesbian?: Her Letter to Susan Gilbert, in June of 1852, Might Tell Us Less Than You Think](https://santitafarella.wordpress.com/2008/07/15/emily-dickinson-lesbian-her-letter-to-susan-gilbert-in-june-of-1852-might-tell-us-less-than-you-think/) 
-- [Emily Dickinson, Lesbian?: Her Letter to Susan Gilbert, in June of 1852, Might Tell Us Less Than You Think](https://santitafarella.wordpress.com/2008/07/15/emily-dickinson-lesbian-her-letter-to-susan-gilbert-in-june-of-1852-might-tell-us-less-than-you-think/)
+- [Poetry of Emily Dickinson](http://www.sappho.com/poetry/e_dickin.html)
+- and of course my English Literature notes from Terminale
