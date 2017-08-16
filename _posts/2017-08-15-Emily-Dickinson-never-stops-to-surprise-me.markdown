@@ -45,7 +45,7 @@ Life philosophy in general:
 >
 >-- *First stanza of "Success is counted sweetest".*
 
-I think there is a point in our life that we all realise that, yes, everything works on a relative scale - if there is no bitterness, we couldn't qualify anything as sweet. Yet, every time I read these lines, I am amazed how it's so beautifully written down by Dickinson.
+I think there is a point in our life that we all realise that, yes, everything works on a relative scale - if there is no bitterness, we couldn't qualify anything as sweet. Yet, every time I read these lines, I am amazed how the words and rhythm are so beautifully orchestrated by Emily Dickinson.
 
 On Fame:
 
@@ -107,7 +107,7 @@ And of course, she wrote about much more things and topics, but since "Emily Dic
 
 **But as I am too aware of her poetic talent, what could possibly surprise me again?** Well...I had little interest in her personal life, untill today when I was Googling these poems for PQ, I bumped into Emily's correspondence with her dear friend, slash, sister-in-law, Susan. And yes, theese letters make me question her sexuality, the later could shine new light on some poems. Without further ado, here's some quotes from her letter to her "friend" ;) . There exist a collection of their correspondence - [Open Me Carefully](https://www.amazon.com/Open-Carefully-Dickinsons-Huntington-Dickinson/dp/0963818368/ref=sr_1_1?ie=UTF8&qid=1502843585&sr=8-1&keywords=open+me+carefully).
 
-N.B. PQ was baffled by the punctuations in these passages. But it is very important for the readers to understand that this is Emily Dickinson's very unique style of writing, as one could note in her (unaltered version of) poems too. She tends to break the rhythm with commas, points, dashes that stress the isolation, or serves the purpose of intensification. In addition, her syntax could be very messed up - please don't doubt her knowledge in English grammar - in order to illustrate her inner turmoil and for the occassions where words fail her.
+**N.B.** PQ was baffled by the punctuations in these passages. But it is very important for the readers to understand that this is Emily Dickinson's very **unique style of writing**, as one could note in her (unaltered version of) poems too. She tends to break the rhythm with commas, points, dashes that stress the <u>isolation</u>, or serves the purpose of <u>intensification</u>. In addition, her syntax could be very messed up - please don't doubt her knowledge in English grammar - in order to illustrate her inner <u>turmoil</u> and for the occassions when <u>words fail her</u>.
 
 Passage 1
 >I have but one thought, Susie, this afternoon of June, and that of you, and I have one prayer, only; dear Susie, that is for you. That you and I in hand as we e’en do in heart, \[...\] Susie, and when I look around me and find myself alone, I sigh for you again; little sigh, and vain sigh, which will not bring you home.
@@ -123,3 +123,21 @@ Passage 4
 
 If you read me Passage 1 and Passage 2 without telling me its from Emily Dickinson, I could have assumed that these are excerpt from some love notes in a Jane Austen novel. BTW my favourite love letter was the one Captain Wentworth wrote to Anne in Persuaion (*"\[...\] You pierce my soul. I am half agony, half hope. Tell me not that I am too late, that such precious feelings are gone for ever. I offer myself to you again with a heart even more your own than when you almost broke it \[...\]"*). But now... Hey Jane, make way for Emily!
 
+One cannot argue that Emily was in her man persona when she wrote these *personal* letters to her friend (or is this a role play between friends??). I would say the sweetness contained in these letters is far beyond my sweet lab partner's standard, i.e. I don't think this is an appropriate level of affection between BFF. So that leads us to speculate that Emily, lesbian or bisexual, was interested in women. However, of course, Emily lived in Victorian era, and people may have different standards as we do in modern times. I quote PQ, "people back in the days were more eloquent and beat around the bush".
+
+But let's assume that Emily was gay/bi for now, and revisit her poem *"Wild nights - Wild nights!"*.
+
+>Wild nights - Wild nights! 
+>Were I with thee 
+>Wild nights should be 
+>Our luxury! 
+>
+>Futile - the winds - 
+>To a Heart in port - 
+>Done with the Compass - 
+>Done with the Chart! 
+>
+>Rowing in Eden - 
+>Ah - the Sea! 
+>Might I but moor - tonight - 
+>In thee! 
