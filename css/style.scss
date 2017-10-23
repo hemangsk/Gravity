@@ -13,15 +13,6 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
 // Width of the content area
 $content-width:    800px;
 
@@ -49,7 +40,8 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "color"
 ;
 
 
@@ -70,8 +62,6 @@ dl, dd, ol, ul, figure {
  */
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
-    background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -146,45 +136,20 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #aaa !important;
     text-decoration: none;
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
     &:hover {
-        color: black !important;
-        border-bottom: 1px dotted black ;
+        border-bottom: 1px dotted;
     }
 
-    &.page-link{
-      &:hover {
-          color: $text-color;
-          border-bottom: 1px dotted black ;
-      }
+    &.page-link:hover {
+        border-bottom: 1px dotted;
     }
-    &.postLink{
-      color: black !important;
-      &:hover {
-
-          border-bottom: 1px dotted black ;
-      }
-
-      &:visited {
-          color: "crimson" !important;
-      }
+    &.postLink:hover{
+        border-bottom: 1px dotted;
     }
-    &.post-title-link{
-      color: black !important;
-      &:hover {
-
-          border-bottom: 1px dotted black !important ;
-      }
-
-      &:visited {
-          color: "crimson" !important;
-      }
+    &.post-title-link:hover{
+        border-bottom: 1px dotted !important;
     }
 }
 
@@ -194,8 +159,7 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    border-left: 4px solid;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
@@ -214,9 +178,8 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid;
     border-radius: 3px;
-    background-color: #eef;
 }
 
 code {
@@ -282,10 +245,6 @@ pre {
         width: 16px;
         height: 16px;
         vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
     }
 }
 
@@ -365,8 +324,8 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 5px solid;
+  border-bottom: 1px solid;
   min-height: 56px;
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -378,10 +337,6 @@ pre {
   text-transform: capitalize;
   font-weight: 500;
   margin-top: 1em;
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
 }
 .site-description {
   font-size: 14px;
@@ -394,7 +349,6 @@ pre {
   padding-right: 2em;
 }
 .site-navigation {
-  color: #aaa;
   text-transform: uppercase;
   font-size: 14px;
   letter-spacing: 2px;
@@ -414,16 +368,11 @@ pre {
 .page-tagline {
   font-size: 18px;
   font-family: "PT Sans";
-  color: rgb(170, 170, 170);
   text-align: center;
   text-transform: lowercase;
 }
-.page-link {
-  color: rgb(170, 170, 170);
-}
 .site-nav {
   .page-link {
-    color: $text-color;
     line-height: $base-line-height;
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -434,8 +383,6 @@ pre {
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
     .menu-icon {
@@ -449,9 +396,6 @@ pre {
       > svg {
         width: 18px;
         height: 15px;
-        path {
-          fill: $grey-color-dark;
-        }
       }
     }
     .trigger {
@@ -476,7 +420,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid;
   padding: $spacing-unit 0;
 }
 .footer-heading {
@@ -493,7 +437,6 @@ pre {
 }
 .footer-col-wrapper {
   font-size: 15px;
-  color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -555,7 +498,6 @@ pre {
 }
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
   text-transform: uppercase;
   font-size: 16px;
 }
@@ -657,12 +599,7 @@ pre {
  * Syntax highlighting styles
  */
 .highlight {
-    background: #fff;
     @extend %vertical-rhythm;
-
-    .highlighter-rouge & {
-      background: #eef;
-    }
 
     .c     { color: #998; font-style: italic } // Comment
     .err   { color: #a61717; background-color: #e3d2d2 } // Error
