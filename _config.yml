@@ -14,6 +14,7 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: hemang_kumar
 github_username:  hemangsk
 paginate: 5
+theme-dark: false #Set to true to change to dark website theme
 
 gems: [jekyll-paginate, kramdown]
 # Build settings
