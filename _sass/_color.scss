@@ -1,38 +1,42 @@
+/**
+ * Website colors. Determine color palette for dark and light theme
+ */
+
 @charset "utf-8";
 
+/**
+ * Light color palette
+ */
 $l-text-color:       #111;
 $l-link-color:       #aaa;
 $l-background-color: #fdfdfd;
 $l-brand-color:      #2a7ae2;
-
 $l-grey-color:       #828282;
 $l-grey-color-light: lighten($l-grey-color, 40%);
 $l-grey-color-dark:  darken($l-grey-color, 25%);
-
 $l-code: #EEF;
-
 $l-crimson: #DC143C;
-
 $l-nav: $l-link-color;
-
 $l-page: $l-link-color;
 
+/**
+ * Dark color palette
+ */
 $d-text-color:       #e7e7e7;
 $d-link-color:       #cccccc;
 $d-background-color: #191919;
 $d-brand-color:      #2a7ae2;
-
 $d-grey-color:       #A7A7A7;
 $d-grey-color-light: lighten($l-grey-color, 40%);
 $d-grey-color-dark:  darken($l-grey-color, 25%);
-
 $d-code: #2f2f33;
 $d-crimson: #DC143C;
-
 $d-nav: $d-link-color;
-
 $d-page: $d-link-color;
 
+/**
+ * Light theme color definitions
+ */
 body.light {
   color: $l-text-color;
   background-color: $l-background-color;
@@ -63,6 +67,7 @@ body.light {
 
       &:visited {
           color: $l-crimson !important;
+          border-color: $l-crimson;
       }
     }
     &.post-title-link{
@@ -70,6 +75,7 @@ body.light {
 
       &:visited {
           color: $l-crimson !important;
+          border-color: $l-crimson;
       }
     }
   }
@@ -145,6 +151,9 @@ body.light {
   }
 }
 
+/**
+ * Dark theme color definitions
+ */
 body.dark {
   color: $d-text-color;
   background-color: $d-background-color;
@@ -175,6 +184,7 @@ body.dark {
 
       &:visited {
           color: $d-crimson !important;
+          border-color: $d-crimson;
       }
     }
     &.post-title-link{
@@ -182,6 +192,7 @@ body.dark {
 
       &:visited {
           color: $d-crimson !important;
+          border-color: $d-crimson;
       }
     }
   }
@@ -196,7 +207,7 @@ body.dark {
    */
   pre,
   code {
-    border-color: $d-grey-color-light;
+    border-color: $d-grey-color;
     background-color: $d-code;
   }
 
@@ -217,7 +228,7 @@ body.dark {
 
   .site-title,
   .site-title:visited {
-    color: $d-grey-color-dark;
+    color: $d-grey-color-light;
   }
 
   .site-navigation {
