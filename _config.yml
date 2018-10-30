@@ -11,8 +11,8 @@ email: hemangsk@gmail.com
 description: The Liberal Jekyll Theme
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+twitter_username: chirag-awale  
+github_username:  chiragawale
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
