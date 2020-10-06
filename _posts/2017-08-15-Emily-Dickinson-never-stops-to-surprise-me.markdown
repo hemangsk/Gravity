@@ -3,7 +3,7 @@ layout: post
 title:  "Emily Dickinson never stops to surprise me"
 date:   2017-08-15 19:45:31 +0530
 categories: ["blah"]
-author: "Yichen Liu"
+author: "Yichen"
 ---
 The topic was brought up in yet another weired <s><i>R-rated</i></s> converstation with my friend - the Procrastination Queen (PQ). 
 
