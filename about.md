@@ -13,7 +13,7 @@ permalink: /about/
   </div>
 <p>  <div class="manual-content">
 
-<p>I am a physics graduate from Imperial College London. I originally come from Beijing, China. And I lived in southern France for 7 years. I can speak Chinese, English and French fluently, entiendo un poco español. I am currently trying to learn German! </p>
+<p>Having a physics degree in my pouch, I'm currently studying Mathematics and Finance at Imperial College London. I originally come from Beijing, China. And I lived in southern France for 7 years. I can speak Chinese, English and French fluently, entiendo un poco español. I am currently trying to learn German! </p>
 <br>
 <p>My projects are mostly computational, involving either simulation or data analysis <small>(Maybe I should call myself a theoretist?)</small> I used to be a python fan but right now I favor R slightly more. <s>Matlab is okay</s>.</p>
 <br>
@@ -23,9 +23,9 @@ permalink: /about/
   <strong>Interest</strong>
   </div>
 <p>  <div class="manual-content">
-<p>I want to improve undergraduate teaching of physics. Does there exist a way to pass on the great knowledge without intentionally perplex student and the use of dark magic <i>"it's trivial"</i> ??</p>
-<br>
 <p>Academically, I am interested in statistical inference, network and complex systems.</p>
+  <br>
+<p>If one day I have a bit more spare time, I want to improve undergraduate teaching of physics. Does there exist a way to pass on the great knowledge without intentionally perplex student and the use of dark magic <i>"it's trivial"</i> ??</p>
 
 </div>
 
