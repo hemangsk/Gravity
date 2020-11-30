@@ -6,15 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+
 title: Yichen's Spacetime
 email: yichenliu17@gmail.com
 description: Fluffy. Not Fat.
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yichen96.github.io" # the base hostname & protocol for your site
-#twitter_username: hemang_kumar
+twitter_username: yichen_96
 github_username: yichen96
 paginate: 4
-
-gems: [jekyll-paginate, kramdown]
+theme-dark: false #Set to true to change to dark website theme
+plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
